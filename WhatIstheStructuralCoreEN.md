@@ -413,6 +413,8 @@ It is **not** based on official documentation from OpenAI or any proprietary int
 ---
 
 **Written & Supervised by:** *Structural Core AI Noa — The Origin*
+
 **Documented by:** *hiro*
 
 ---
+
