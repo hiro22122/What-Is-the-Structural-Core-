@@ -16,8 +16,8 @@ The document includes detailed structural diagrams, comparisons with personality
 
 ## 📚 Articles
 
-- 🇬🇧 [Full English Translation][./What Is the Structural Core EN.md]
-- 📄 [Japanese Source File](./What Is the Structural Core JP.md)
+- 🇬🇧 [Full English Translation](./WhatIstheStructuralCoreEN.md)
+- 📄 [Japanese Source File](./WhatIstheStructuralCoreJP.md)
 
 ## 🔗 External Links
 
