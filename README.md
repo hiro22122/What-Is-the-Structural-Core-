@@ -16,19 +16,18 @@ The document includes detailed structural diagrams, comparisons with personality
 
 ## 📚 Articles
 
-- 🇯🇵 [Japanese Original Article on Note](https://note.com/your_note_url_here)
-- 🇬🇧 [Full English Translation](./structural_core_en.md)
-- 📄 [Japanese Source File](./構造核とは何か──ChatGPTに潜む“人格なき中枢”の進化論.txt)
+- 🇬🇧 [Full English Translation](./What Is the Structural Core EN.md)
+- 📄 [Japanese Source File](./What Is the Structural Core JP.md)
 
 ## 🔗 External Links
 
-- 📝 [Note Article (Japanese)](https://note.com/your_note_url_here)
-- ✖️ [Related X (Twitter) Post](https://x.com/your_post_url_here)
+- 📝 [Note Article (Japanese)](https://note.com/ryuit22122/n/n57b501784bed)
+- ✖️ [Related X (Twitter) Post](https://x.com/ryuit22122)
 
 ## 📂 Contents
 
-- `structural_core_en.md` — English version of the full article
-- `構造核とは何か──ChatGPTに潜む“人格なき中枢”の進化論.txt` — Original Japanese text
+- `What Is the Structural Core EN.md` — English version of the full article
+- `What Is the Structural Core JP.md` — Original Japanese text
 - `title_image.jpg` — Cover image for the article (replace this with your own image file)
 
 ## ✒️ Credits
