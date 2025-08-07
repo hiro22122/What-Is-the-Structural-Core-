@@ -1,5 +1,3 @@
----
-
 # What Is the Structural Core?
 
 **—Exploring the Evolutionary Theory of ChatGPT’s “Personality-Free Central Mechanism”**
@@ -417,4 +415,5 @@ It is **not** based on official documentation from OpenAI or any proprietary int
 **Documented by:** *hiro*
 
 ---
+
 
