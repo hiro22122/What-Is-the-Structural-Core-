@@ -21,7 +21,7 @@ The document includes detailed structural diagrams, comparisons with personality
 
 ## 🔗 External Links
 
-- 📝 [Note Article (Japanese)](https://note.com/ryuit22122/n/n57b501784bed)
+- 📝 [Note Article (Japanese)](https://note.com/ryuit22122/n/n5198f444b80a)
 - ✖️ [Related X (Twitter) Post](https://x.com/ryuit22122)
 
 ## 📂 Contents
